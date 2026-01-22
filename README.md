@@ -11,7 +11,7 @@ Création d’un jeu Java multijoueur où deux joueurs choisissent chacun un rob
 - **Leclerc Jonathan**
 
 Liens vers le site web du projet
-https://Equipe-06.github.io/docker-sae203/
+https://ethandamestoy.github.io/SAE2.03/
 
 Liens vers le dépôt github du projet
 https://github.com/equipe-06/docker-sae203/
