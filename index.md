@@ -148,6 +148,7 @@ java Client
 - Leclerc Jonathan – [GitHub](https://github.com/Nailledo)
 - Millereux Bienvault William – [GitHub](https://github.com/Falcrom37) 
 - Leprevost Lucas – [GitHub](https://github.com/LucasLeprevost)
--   
--- 
+   
+---
+
 *Projet réalisé dans le cadre de la SAE 2.03 à l’IUT du Havre — BUT Informatique 1ᵉ année.*
